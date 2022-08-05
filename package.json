@@ -34,7 +34,7 @@
     "express": "^4.17.1",
     "jwt-simple": "^0.5.6",
     "materialize-social": "^1.0.3",
-    "mongoose": "^5.6.6",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.1",
     "passport": "^0.4.0",
